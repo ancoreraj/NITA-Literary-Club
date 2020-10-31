@@ -1,12 +1,12 @@
 # Nita Literary Club
 
-###Clone the project using `https://github.com/ancoreraj/NITA-Literary-Club.git`
+### Clone the project using `https://github.com/ancoreraj/NITA-Literary-Club.git`
 
-###Change the directory using the command `cd NITA-Literary-Club`
+### Change the directory using the command `cd NITA-Literary-Club`
 
-###Run `npm install`
+### Run `npm install`
 
-###Now Run `node app.js`
+### Now Run `node app.js`
 
 ## Development server
 
